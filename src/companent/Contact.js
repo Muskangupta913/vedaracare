@@ -1,7 +1,7 @@
 import React,{ useState } from 'react'
 import { Phone, Mail, Headphones, Facebook, Instagram, Linkedin, Twitter, Youtube } from 'lucide-react';
 import image from '../image/formiamge.jpg';
-import logo from '../image/vdlb-removebg-preview.png'
+import logo from '../image/ChatGPT.png'
 
 function Contact() {
   const today = new Date().toLocaleDateString("en-US", {

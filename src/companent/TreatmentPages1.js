@@ -6,7 +6,7 @@ import { Phone, Mail,CheckCircle, Headphones, Facebook, Instagram, Linkedin, Twi
 import { motion } from "framer-motion";
 import formimage from "../image/formiamge.jpg"
 import image from '../image/Aesthetic Dermatology1.jpeg';
-import logo from '../image/vdlb-removebg-preview.png';
+import logo from '../image/ChatGPT.png';
 import {
   Star,
   Award,

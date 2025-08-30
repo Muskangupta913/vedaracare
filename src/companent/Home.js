@@ -39,10 +39,10 @@ import phy from "../image/b.png";
 import home1 from "../image/home1.jpg";
 import home2 from "../image/home2.jpg";
 import home3 from "../image/home3g.jpg";
-import home4 from "../image/compressed_dental_image.jpeg";
+import home4 from "../image/homepage.jpeg";
 import home5 from "../image/Anti-Aging Treatments.jpg";
 // import formimage from "../image/formiamge.jpg";
-import logo from "../image/vdlb-removebg-preview.png";
+import logo from "../image/ChatGPT.png";
 
 const faqs = [
   {

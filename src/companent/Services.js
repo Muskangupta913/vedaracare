@@ -10,7 +10,7 @@ import e from '../image/general_phy/dd3.png';
 import f from '../image/skin/bot.jpeg';
 import g from '../image/skin/hairprp2.png';
 
-import logo from '../image/vdlb-removebg-preview.png';
+import logo from '../image/ChatGPT.png';
 
 const services = [
   {
